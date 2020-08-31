@@ -1,6 +1,7 @@
 clear; clc;
 
 v = rand(20,1);
+% disp(v);
 % let's say you want to add to add to element v(i) in vector v, the value
 % of v(i+1) and repeat this for every i from 1 to 19
 
@@ -8,10 +9,12 @@ v = rand(20,1);
 for i=1:19,
     v(i) = v(i)+v(i+1);
 end;
+% disp(v);
 
 % better way - MATLAB styled MATLAB code :-) - faster execution, more
 % compact code!
 v(1:19) = v(1:19) + v(2:20);
+% disp(v);
 
 %%%%%%%%%%%%%%%%%
 
