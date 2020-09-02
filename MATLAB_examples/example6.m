@@ -13,8 +13,8 @@ mean_a_partial = mean(a(1:10:end));
 
 
 % computing the standard deviation yourself
-std_a = sum((a-mean(a)).^2)/(length(a)-1);
-var_a = std_a^2;
+var_a = sum((a-mean(a)).^2)/(length(a)-1);
+std_a = var_a^(1/2);
 
 % correlation coefficient
 x = rand(1,1000);
