@@ -68,10 +68,81 @@
 \section{Question 3}
 \section{Question 4}
 \section{Question 5}
-a.
-$P(C_1|Z_1)=1/3$ \par
-\hspace{1.25em}$P(C_2|Z_1)=1/3$ \par
-\hspace{1.25em}$P(C_3|Z_1)=1/3$  \par
+\hspace{2.5em} \textbf{(a)}.
+\begin{center}
+    \hspace{1.25em}$P(C_1|Z_1)= \frac{1}{3}$ \par
+    \hspace{1.25em}$P(C_2|Z_1)=\frac{1}{3}$ \par
+    \hspace{1.25em}$P(C_3|Z_1)=\frac{1}{3}$ \par
+\end{center}
+
+\hspace{2.5em} \textbf{(b)}
+$P(H_3|C_1, Z_1)=\frac{1}{2}$ (if car is present behind first door so rest two doors have equal probability)\par
+$P(H_3|C_2, Z_1)=1$ (if car is present behind door 2, so the host will always pick door 3) \par
+$P(H_3|C_3, Z_1)=0$ (if  car is present behind door 3 , them host will never select it )\par
+
+
+\hspace{2.5em} \textbf{(c)}
+\begin {center}
+$P(H_3|C_2, Z_1)=1 $ \par
+$ P(C_2,Z_1)=P(C_2|Z_1) \times P(Z_1)=\frac{1}{3} \cdot \frac{1}{3}=\frac{1}{9}$\par
+$ P(H_3|Z_1)= \frac{1}{3}\cdot\frac{1}{2}+\frac{1}{3}\cdot1+\frac{1}{3}\cdot0=\frac{1}{2} $ \par
+\begin {align*}
+P(H_3,Z_1) &= P(H_3|Z_1) \times P(Z_1) \\
+&=\frac{1}{2} \cdot \frac{1}{3}\\
+&= \frac{1}{6}
+\end {align*}
+
+\begin{align*}
+    P(C_2|H_3,Z_1) & = \dfrac{P(H_3|C_2,Z_1)P(C_2,Z_1)}{P(H_3,Z_1)} \\
+                   & = \dfrac{1 \times \frac{1}{9}}{\frac{1}{6}}    \\
+                   & = \dfrac{2}{3}
+\end{align*}
+
+
+\end {center}
+
+\hspace{2.5em} \textbf{(d)}
+\begin{center}
+    \begin{align*}
+        P(C_1|H_3,Z_1) & = \dfrac{P(H_3|C_1,Z_1)P(C_1,Z_1)}{P(H_3,Z_1)}       \\
+                       & =\dfrac{\frac{1}{2} \times \frac{1}{9}}{\frac{1}{6}} \\
+                       & = \dfrac{1}{3}
+    \end{align*}
+
+
+
+\end{center}
+
+
+\hspace{2.5em} \textbf{(e)}
+$P(C_2|H_3,Z_1) > P(C_1|H_3,Z_1)$ \par
+\hspace{3.0em}So, Switching will be beneficial \par
+
+\hspace{2.5em} \textbf{(f)}
+\begin{center}
+    $ \forall_i P(H_3|C_i,Z_1)=\dfrac{1}{2}$ \par
+    $\forall_i P(C_i,Z_1)=\dfrac{1}{3}$ \par
+
+    $P(H_3|Z_1)=\dfrac{1}{2}$ \par
+    $P(H_3,Z_1)=P(H_3|Z_1) \times P(Z_1)=\dfrac{1}{2} \cdot \dfrac{1}{3}=\dfrac{1}{6} $ \par
+    \begin{align*}
+        P(C_2|H_3,Z_1) & = \dfrac{P(H_3|C_2,Z_1)P(C_2,Z_1)}{P(H_3,Z_1)} \\
+                       & = \dfrac{\frac{1}{2} \times \frac{1}{9}}{\frac{1}{6}}    \\
+                       & = \dfrac{1}{3}
+    \end{align*}
+    \begin{align*}
+        P(C_1|H_3,Z_1) & = \dfrac{P(H_3|C_1,Z_1)P(C_1,Z_1)}{P(H_3,Z_1)}       \\
+                       & =\dfrac{\frac{1}{2} \times \frac{1}{9}}{\frac{1}{6}} \\
+                       & = \dfrac{1}{3}
+    \end{align*}
+
+    $P(C_2|H_3,Z_1) = P(C_1|H_3,Z_1)$. So switching won't create any difference.
+    
+
+
+\end{center}
+
+
 
 
 
