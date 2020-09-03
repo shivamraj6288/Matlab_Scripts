@@ -1,4 +1,4 @@
-clean;clc;
+clear;clc;
 x = -3:0.02:3;
 y = 5*sin(1.8*x+pi/3);
 
