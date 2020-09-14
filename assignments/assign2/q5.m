@@ -1,10 +1,10 @@
 clc; clear;
 p = [0.05 0.4 0.15 0.3 0.1];
 pd = makedist('Multinomial','Probabilities',p);
-samples = 1000;
-mad = zeros(10,1);
+samples = 2000;
+mad = zeros(3,1);
 i=1;
-for N = [5 10 20 50 100 200 500 1000 5000 10000]
+for N = [100 1000 10000]
     list = random(pd,samples,N);
     mean_list = mean(list,2);
     % in the following line change 'off' to 'on' if you want to see figures
@@ -36,9 +36,9 @@ end
 
 % in the following line change 'off' to 'on' if you want to see figures
 f=figure('visible','off');
-vals = {'5' ;'10'; '20'; '50'; '100'; '200'; '500'; '1000'; '5000'; '10000'};
+vals = {'100'; '1000'; '10000'};
 plot(mad);
-set(gca, 'XTick', 1:10, 'XTickLabel', vals);
+set(gca, 'XTick', 1:3, 'XTickLabel', vals);
 title('Variation of MAD for different values of N');
 % remove the following line if you do not want to save the figures
 saveas(f, 'p3.jpg');
