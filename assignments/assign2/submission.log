@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2020.9.3)  15 SEP 2020 02:55
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2020.9.3)  15 SEP 2020 02:58
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -492,248 +492,281 @@ Overfull \hbox (30.0034pt too wide) in paragraph at lines 60--60
 [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
-<3a.jpeg, id=50, 1226.5825pt x 1284.8pt>
-File: 3a.jpeg Graphic file (type jpg)
-<use 3a.jpeg>
-Package pdftex.def Info: 3a.jpeg  used on input line 64.
-(pdftex.def)             Requested size: 424.05109pt x 444.17789pt.
+<q2-1.jpeg, id=50, 1084.05pt x 1166.3575pt>
+File: q2-1.jpeg Graphic file (type jpg)
+<use q2-1.jpeg>
+Package pdftex.def Info: q2-1.jpeg  used on input line 62.
+(pdftex.def)             Requested size: 424.05148pt x 456.24799pt.
 
-Overfull \hbox (29.99075pt too wide) in paragraph at lines 64--64
+Overfull \hbox (29.99115pt too wide) in paragraph at lines 62--62
 [] 
  []
 
 [2 </home/shivam/Documents/sem3/cs215/matlab_scripts/assignments/assign2/1.jpeg>]
-<3b.jpeg, id=55, 1220.56pt x 1284.8pt>
-File: 3b.jpeg Graphic file (type jpg)
-<use 3b.jpeg>
-Package pdftex.def Info: 3b.jpeg  used on input line 65.
-(pdftex.def)             Requested size: 424.0549pt x 446.3736pt.
+<q2-2.jpeg, id=55, 1084.05pt x 1244.65pt>
+File: q2-2.jpeg Graphic file (type jpg)
+<use q2-2.jpeg>
+Package pdftex.def Info: q2-2.jpeg  used on input line 63.
+(pdftex.def)             Requested size: 424.05148pt x 486.87392pt.
 
-Overfull \hbox (29.99457pt too wide) in paragraph at lines 65--65
+Overfull \hbox (29.99115pt too wide) in paragraph at lines 63--63
 [][] 
  []
 
-[3 </home/shivam/Documents/sem3/cs215/matlab_scripts/assignments/assign2/3a.jpeg>]
-<4a.jpeg, id=60, 868.24374pt x 1284.8pt>
-File: 4a.jpeg Graphic file (type jpg)
-<use 4a.jpeg>
-Package pdftex.def Info: 4a.jpeg  used on input line 67.
-(pdftex.def)             Requested size: 424.06534pt x 627.51866pt.
+[3 </home/shivam/Documents/sem3/cs215/matlab_scripts/assignments/assign2/q2-1.jpeg>]
+<q2-3.jpeg, id=60, 1018.80624pt x 1284.8pt>
+File: q2-3.jpeg Graphic file (type jpg)
+<use q2-3.jpeg>
+Package pdftex.def Info: q2-3.jpeg  used on input line 64.
+(pdftex.def)             Requested size: 424.05591pt x 534.77003pt.
 
-Overfull \hbox (30.005pt too wide) in paragraph at lines 67--67
+Overfull \hbox (29.99557pt too wide) in paragraph at lines 64--64
+[][] 
+ []
+
+[4 </home/shivam/Documents/sem3/cs215/matlab_scripts/assignments/assign2/q2-2.jpeg>]
+<3a.jpeg, id=65, 1226.5825pt x 1284.8pt>
+File: 3a.jpeg Graphic file (type jpg)
+<use 3a.jpeg>
+Package pdftex.def Info: 3a.jpeg  used on input line 66.
+(pdftex.def)             Requested size: 424.05109pt x 444.17789pt.
+
+Overfull \hbox (29.99075pt too wide) in paragraph at lines 66--66
 [] 
  []
 
-[4 </home/shivam/Documents/sem3/cs215/matlab_scripts/assignments/assign2/3b.jpeg>]
+[5 </home/shivam/Documents/sem3/cs215/matlab_scripts/assignments/assign2/q2-3.jpeg>]
+<3b.jpeg, id=70, 1220.56pt x 1284.8pt>
+File: 3b.jpeg Graphic file (type jpg)
+<use 3b.jpeg>
+Package pdftex.def Info: 3b.jpeg  used on input line 67.
+(pdftex.def)             Requested size: 424.0549pt x 446.3736pt.
+
+Overfull \hbox (29.99457pt too wide) in paragraph at lines 67--67
+[][] 
+ []
+
+[6 </home/shivam/Documents/sem3/cs215/matlab_scripts/assignments/assign2/3a.jpeg>]
+<4a.jpeg, id=75, 868.24374pt x 1284.8pt>
+File: 4a.jpeg Graphic file (type jpg)
+<use 4a.jpeg>
+Package pdftex.def Info: 4a.jpeg  used on input line 69.
+(pdftex.def)             Requested size: 424.06534pt x 627.51866pt.
+
+Overfull \hbox (30.005pt too wide) in paragraph at lines 69--69
+[] 
+ []
+
+[7 </home/shivam/Documents/sem3/cs215/matlab_scripts/assignments/assign2/3b.jpeg>]
 Overfull \vbox (28.18457pt too high) has occurred while \output is active []
 
- [5 </home/shivam/Documents/sem3/cs215/matlab_scripts/assignments/assign2/4a.jpeg>]
-<4b.jpeg, id=69, 1284.8pt x 1250.6725pt>
+ [8 </home/shivam/Documents/sem3/cs215/matlab_scripts/assignments/assign2/4a.jpeg>]
+<4b.jpeg, id=85, 1284.8pt x 1250.6725pt>
 File: 4b.jpeg Graphic file (type jpg)
 <use 4b.jpeg>
-Package pdftex.def Info: 4b.jpeg  used on input line 68.
+Package pdftex.def Info: 4b.jpeg  used on input line 70.
 (pdftex.def)             Requested size: 424.06374pt x 412.79955pt.
 
-Overfull \hbox (30.0034pt too wide) in paragraph at lines 68--68
+Overfull \hbox (30.0034pt too wide) in paragraph at lines 70--70
 [][] 
  []
 
-<4c.jpeg, id=70, 963.6pt x 1284.8pt>
+<4c.jpeg, id=86, 963.6pt x 1284.8pt>
 File: 4c.jpeg Graphic file (type jpg)
 <use 4c.jpeg>
-Package pdftex.def Info: 4c.jpeg  used on input line 69.
+Package pdftex.def Info: 4c.jpeg  used on input line 71.
 (pdftex.def)             Requested size: 424.05884pt x 565.41177pt.
 
-Overfull \hbox (29.9985pt too wide) in paragraph at lines 69--69
+Overfull \hbox (29.9985pt too wide) in paragraph at lines 71--71
 [][] 
  []
 
-[6 </home/shivam/Documents/sem3/cs215/matlab_scripts/assignments/assign2/4b.jpeg>] [7 </home/shivam/Documents/sem3/cs215/matlab_scripts/assignments/assign2/4c.jpeg>]
-<p1_100.jpg, id=80, 878.28125pt x 658.46pt>
+[9 </home/shivam/Documents/sem3/cs215/matlab_scripts/assignments/assign2/4b.jpeg>] [10 </home/shivam/Documents/sem3/cs215/matlab_scripts/assignments/assign2/4c.jpeg>]
+<p1_100.jpg, id=95, 878.28125pt x 658.46pt>
 File: p1_100.jpg Graphic file (type jpg)
 <use p1_100.jpg>
-Package pdftex.def Info: p1_100.jpg  used on input line 73.
-(pdftex.def)             Requested size: 424.06288pt x 317.92601pt.
-
-Overfull \hbox (30.00255pt too wide) in paragraph at lines 73--73
-[][] 
- []
-
-<p1_1000.jpg, id=81, 878.28125pt x 658.46pt>
-File: p1_1000.jpg Graphic file (type jpg)
-<use p1_1000.jpg>
-Package pdftex.def Info: p1_1000.jpg  used on input line 74.
-(pdftex.def)             Requested size: 424.06288pt x 317.92601pt.
-
-Overfull \hbox (30.00255pt too wide) in paragraph at lines 74--74
-[][] 
- []
-
-[8 </home/shivam/Documents/sem3/cs215/matlab_scripts/assignments/assign2/p1_100.jpg>]
-File: p1_1000.jpg Graphic file (type jpg)
-<use p1_1000.jpg>
-Package pdftex.def Info: p1_1000.jpg  used on input line 75.
+Package pdftex.def Info: p1_100.jpg  used on input line 75.
 (pdftex.def)             Requested size: 424.06288pt x 317.92601pt.
 
 Overfull \hbox (30.00255pt too wide) in paragraph at lines 75--75
 [][] 
  []
 
-[9 </home/shivam/Documents/sem3/cs215/matlab_scripts/assignments/assign2/p1_1000.jpg>]
-<p2_100.jpg, id=90, 878.28125pt x 658.46pt>
-File: p2_100.jpg Graphic file (type jpg)
-<use p2_100.jpg>
-Package pdftex.def Info: p2_100.jpg  used on input line 76.
+<p1_1000.jpg, id=96, 878.28125pt x 658.46pt>
+File: p1_1000.jpg Graphic file (type jpg)
+<use p1_1000.jpg>
+Package pdftex.def Info: p1_1000.jpg  used on input line 76.
 (pdftex.def)             Requested size: 424.06288pt x 317.92601pt.
 
 Overfull \hbox (30.00255pt too wide) in paragraph at lines 76--76
 [][] 
  []
 
-[10]
-<p2_1000.jpg, id=95, 878.28125pt x 658.46pt>
-File: p2_1000.jpg Graphic file (type jpg)
-<use p2_1000.jpg>
-Package pdftex.def Info: p2_1000.jpg  used on input line 77.
+[11 </home/shivam/Documents/sem3/cs215/matlab_scripts/assignments/assign2/p1_100.jpg>]
+File: p1_1000.jpg Graphic file (type jpg)
+<use p1_1000.jpg>
+Package pdftex.def Info: p1_1000.jpg  used on input line 77.
 (pdftex.def)             Requested size: 424.06288pt x 317.92601pt.
 
 Overfull \hbox (30.00255pt too wide) in paragraph at lines 77--77
 [][] 
  []
 
-[11 </home/shivam/Documents/sem3/cs215/matlab_scripts/assignments/assign2/p2_100.jpg>]
-<p2_10000.jpg, id=100, 878.28125pt x 658.46pt>
-File: p2_10000.jpg Graphic file (type jpg)
-<use p2_10000.jpg>
-Package pdftex.def Info: p2_10000.jpg  used on input line 78.
+[12 </home/shivam/Documents/sem3/cs215/matlab_scripts/assignments/assign2/p1_1000.jpg>]
+<p2_100.jpg, id=105, 878.28125pt x 658.46pt>
+File: p2_100.jpg Graphic file (type jpg)
+<use p2_100.jpg>
+Package pdftex.def Info: p2_100.jpg  used on input line 78.
 (pdftex.def)             Requested size: 424.06288pt x 317.92601pt.
 
 Overfull \hbox (30.00255pt too wide) in paragraph at lines 78--78
 [][] 
  []
 
-[12 </home/shivam/Documents/sem3/cs215/matlab_scripts/assignments/assign2/p2_1000.jpg>]
-<p3.jpg, id=105, 878.28125pt x 658.46pt>
-File: p3.jpg Graphic file (type jpg)
-<use p3.jpg>
-Package pdftex.def Info: p3.jpg  used on input line 79.
+[13]
+<p2_1000.jpg, id=111, 878.28125pt x 658.46pt>
+File: p2_1000.jpg Graphic file (type jpg)
+<use p2_1000.jpg>
+Package pdftex.def Info: p2_1000.jpg  used on input line 79.
 (pdftex.def)             Requested size: 424.06288pt x 317.92601pt.
 
 Overfull \hbox (30.00255pt too wide) in paragraph at lines 79--79
 [][] 
  []
 
-[13 </home/shivam/Documents/sem3/cs215/matlab_scripts/assignments/assign2/p2_10000.jpg>] [14 </home/shivam/Documents/sem3/cs215/matlab_scripts/assignments/assign2/p3.jpg>]
-<cor_cof1.png, id=115, 486.1362pt x 468.7914pt>
+[14 </home/shivam/Documents/sem3/cs215/matlab_scripts/assignments/assign2/p2_100.jpg>]
+<p2_10000.jpg, id=116, 878.28125pt x 658.46pt>
+File: p2_10000.jpg Graphic file (type jpg)
+<use p2_10000.jpg>
+Package pdftex.def Info: p2_10000.jpg  used on input line 80.
+(pdftex.def)             Requested size: 424.06288pt x 317.92601pt.
+
+Overfull \hbox (30.00255pt too wide) in paragraph at lines 80--80
+[][] 
+ []
+
+[15 </home/shivam/Documents/sem3/cs215/matlab_scripts/assignments/assign2/p2_1000.jpg>]
+<p3.jpg, id=121, 877.2775pt x 658.46pt>
+File: p3.jpg Graphic file (type jpg)
+<use p3.jpg>
+Package pdftex.def Info: p3.jpg  used on input line 81.
+(pdftex.def)             Requested size: 424.06015pt x 318.2877pt.
+
+Overfull \hbox (29.99982pt too wide) in paragraph at lines 81--81
+[][] 
+ []
+
+[16 </home/shivam/Documents/sem3/cs215/matlab_scripts/assignments/assign2/p2_10000.jpg>] [17 </home/shivam/Documents/sem3/cs215/matlab_scripts/assignments/assign2/p3.jpg>]
+<cor_cof1.png, id=130, 486.1362pt x 468.7914pt>
 File: cor_cof1.png Graphic file (type png)
 <use cor_cof1.png>
-Package pdftex.def Info: cor_cof1.png  used on input line 86.
+Package pdftex.def Info: cor_cof1.png  used on input line 88.
 (pdftex.def)             Requested size: 424.06259pt x 408.93251pt.
 
 
 Package caption Warning: \captionsetup{type*=...} or \captionof
-(caption)                outside box or environment on input line 87.
+(caption)                outside box or environment on input line 89.
 See the caption package documentation for explanation.
 
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
-(caption)                particular \caption on input line 87.
+(caption)                particular \caption on input line 89.
 See the caption package documentation for explanation.
 
 
-Overfull \hbox (30.00226pt too wide) in paragraph at lines 86--87
+Overfull \hbox (30.00226pt too wide) in paragraph at lines 88--89
 [][] 
  []
 
-<quadMutInf1.png, id=116, 486.1362pt x 468.7914pt>
+<quadMutInf1.png, id=131, 486.1362pt x 468.7914pt>
 File: quadMutInf1.png Graphic file (type png)
 <use quadMutInf1.png>
-Package pdftex.def Info: quadMutInf1.png  used on input line 91.
+Package pdftex.def Info: quadMutInf1.png  used on input line 93.
 (pdftex.def)             Requested size: 424.06259pt x 408.93251pt.
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
-(caption)                particular \caption on input line 92.
+(caption)                particular \caption on input line 94.
 See the caption package documentation for explanation.
 
 
-Overfull \hbox (30.00226pt too wide) in paragraph at lines 91--92
+Overfull \hbox (30.00226pt too wide) in paragraph at lines 93--94
 [][] 
  []
 
-[15 </home/shivam/Documents/sem3/cs215/matlab_scripts/assignments/assign2/cor_cof1.png (PNG copy)>]
-<cor_cof2.png, id=122, 486.1362pt x 468.7914pt>
+[18 </home/shivam/Documents/sem3/cs215/matlab_scripts/assignments/assign2/cor_cof1.png (PNG copy)>]
+<cor_cof2.png, id=137, 486.1362pt x 468.7914pt>
 File: cor_cof2.png Graphic file (type png)
 <use cor_cof2.png>
-Package pdftex.def Info: cor_cof2.png  used on input line 96.
+Package pdftex.def Info: cor_cof2.png  used on input line 98.
 (pdftex.def)             Requested size: 424.06259pt x 408.93251pt.
 
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
-(caption)                particular \caption on input line 97.
+(caption)                particular \caption on input line 99.
 See the caption package documentation for explanation.
 
 
-Overfull \hbox (30.00226pt too wide) in paragraph at lines 96--97
+Overfull \hbox (30.00226pt too wide) in paragraph at lines 98--99
 [][] 
  []
 
-[16 </home/shivam/Documents/sem3/cs215/matlab_scripts/assignments/assign2/quadMutInf1.png (PNG copy)>]
-<quadMutInf2.png, id=128, 486.1362pt x 468.7914pt>
+[19 </home/shivam/Documents/sem3/cs215/matlab_scripts/assignments/assign2/quadMutInf1.png (PNG copy)>]
+<quadMutInf2.png, id=144, 486.1362pt x 468.7914pt>
 File: quadMutInf2.png Graphic file (type png)
 <use quadMutInf2.png>
-Package pdftex.def Info: quadMutInf2.png  used on input line 101.
+Package pdftex.def Info: quadMutInf2.png  used on input line 103.
 (pdftex.def)             Requested size: 424.06259pt x 408.93251pt.
 
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
-(caption)                particular \caption on input line 102.
+(caption)                particular \caption on input line 104.
 See the caption package documentation for explanation.
 
 
-Overfull \hbox (30.00226pt too wide) in paragraph at lines 101--102
+Overfull \hbox (30.00226pt too wide) in paragraph at lines 103--104
 [][] 
  []
 
-[17 </home/shivam/Documents/sem3/cs215/matlab_scripts/assignments/assign2/cor_cof2.png (PNG copy)>] [18 </home/shivam/Documents/sem3/cs215/matlab_scripts/assignments/assign2/quadMutInf2.png (PNG copy)>]
-<7a.jpeg, id=139, 992.70876pt x 1284.8pt>
+[20 </home/shivam/Documents/sem3/cs215/matlab_scripts/assignments/assign2/cor_cof2.png (PNG copy)>] [21 </home/shivam/Documents/sem3/cs215/matlab_scripts/assignments/assign2/quadMutInf2.png (PNG copy)>]
+<7a.jpeg, id=155, 992.70876pt x 1284.8pt>
 File: 7a.jpeg Graphic file (type jpg)
 <use 7a.jpeg>
-Package pdftex.def Info: 7a.jpeg  used on input line 119.
+Package pdftex.def Info: 7a.jpeg  used on input line 121.
 (pdftex.def)             Requested size: 424.05417pt x 548.82642pt.
-<7b.jpeg, id=140, 853.1875pt x 1284.8pt>
+<7b.jpeg, id=156, 853.1875pt x 1284.8pt>
 File: 7b.jpeg Graphic file (type jpg)
 <use 7b.jpeg>
-Package pdftex.def Info: 7b.jpeg  used on input line 124.
+Package pdftex.def Info: 7b.jpeg  used on input line 126.
 (pdftex.def)             Requested size: 417.1933pt x 628.24402pt.
 
 
-LaTeX Warning: Float too large for page by 0.00717pt on input line 125.
+LaTeX Warning: Float too large for page by 0.00717pt on input line 127.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 126.
-[19 </home/shivam/Documents/sem3/cs215/matlab_scripts/assignments/assign2/7a.jpeg>] [20 </home/shivam/Documents/sem3/cs215/matlab_scripts/assignments/assign2/7b.jpeg>]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 126.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 128.
+[22 </home/shivam/Documents/sem3/cs215/matlab_scripts/assignments/assign2/7a.jpeg>] [23 </home/shivam/Documents/sem3/cs215/matlab_scripts/assignments/assign2/7b.jpeg>]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 128.
  (/home/shivam/Documents/sem3/cs215/matlab_scripts/assignments/assign2/submission.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 126.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 126.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 128.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 128.
 Package rerunfilecheck Info: File `submission.out' has not changed.
 (rerunfilecheck)             Checksum: 59AB8FFB4B854B1B4DE8C2CEF679539F;315.
  ) 
 Here is how much of TeX's memory you used:
- 10260 strings out of 481239
- 152640 string characters out of 5920378
+ 10281 strings out of 481239
+ 152877 string characters out of 5920378
  430631 words of memory out of 5000000
- 25300 multiletter control sequences out of 15000+600000
+ 25315 multiletter control sequences out of 15000+600000
  538703 words of font info for 50 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  45i,12n,46p,1268b,409s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb>
-Output written on /home/shivam/Documents/sem3/cs215/matlab_scripts/assignments/assign2/submission.pdf (20 pages, 1299540 bytes).
+Output written on /home/shivam/Documents/sem3/cs215/matlab_scripts/assignments/assign2/submission.pdf (23 pages, 1807354 bytes).
 PDF statistics:
- 180 PDF objects out of 1000 (max. 8388607)
- 133 compressed objects within 2 object streams
- 34 named destinations out of 1000 (max. 500000)
- 147 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 198 PDF objects out of 1000 (max. 8388607)
+ 145 compressed objects within 2 object streams
+ 37 named destinations out of 1000 (max. 500000)
+ 162 words of extra memory for PDF output out of 10000 (max. 10000000)
 
