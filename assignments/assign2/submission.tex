@@ -7,6 +7,7 @@
 \usepackage{fancyhdr} % for header, footer
 \usepackage{xcolor}  % for color
 \usepackage{graphicx} % for figure
+\usepackage{subcaption}
 \usepackage{floatrow} % for formatting figures
 \usepackage{enumitem} % for adjusting list spacing 
 \usepackage{amsmath} 
@@ -78,31 +79,48 @@ Code for this qsn is in file named 'q5.m' \par
 \includegraphics[width=\textwidth, height=\textheight, keepaspectratio]{p3.jpg}\par
 \newpage
 \section{Question 6}
-% \begin{figure}[h!]
+Code of this question is in the file 'q6.m' \par
+% \begin{figure} [h!]
+% \centering
+% \begin{subfigure}[b]{0.4\linewidth}
 \includegraphics[width=\textwidth, height=\textheight, keepaspectratio]{cor_cof1.png}
-\captionof {figure} {This plot correspond to T1.jpg}
+\captionof {figure} {This plot correspond to T1.jpg and T2.jpg}
+% \end{subfigure}
+
+% \begin{subfigure}[b]{0.4\linewidth}
+\includegraphics[width=\textwidth, height=\textheight, keepaspectratio]{quadMutInf1.png}
+\captionof {figure}{This plot correspond to T1.jpg and T2.jpg}
+% \end{subfigure}
+
+% \begin{subfigure}[b]{0.4\linewidth}
+\includegraphics[width=\textwidth, height=\textheight, keepaspectratio]{cor_cof2.png}
+\captionof {figure}{This plot correspond to T1.jpg and negative of T1.jpg}
+% \end{subfigure}
+
+% \begin{subfigure}[b]{0.4\linewidth}
+\includegraphics[width=\textwidth, height=\textheight, keepaspectratio]{quadMutInf2.png}
+\captionof {figure}{This plot correspond to T1.jpg and negative of T1.jpg}
+% \end{subfigure}
+
 % \end{figure}
 
-\begin{figure}[h!]
-    \includegraphics[width=\textwidth, height=\textheight, keepaspectratio]{quadMutInf1.png}
-    \caption{This plot correspond to T2.jpg}
-\end{figure}
+\par
+\par
+By observation we can see that correlation coefficient between the two images will be always postive, and it will minimum when the shift is equal to -1(that is one unit along negative x axis).By similar type of arguments we can say that QMI will attains it's maximum when the shift is equal to 1.We can say that correlation coefficient increases and QMI decreases when images are moved out of alignment as the point of minimum correlation coefficient and maximum QMI is somewhat close to no shift. \par
+By observation we can see that correlation coefficient between the two images will be always negative, and it will minimum when the shift is equal to 0 and it will be equal to -1 as we can clearly see that the images are negative of each other.By similar type of arguments we can say that QMI will attains it's maximum when the shift is equal to 0.We can say that correlation coefficient increases and QMI decreases when images are moved out of alignment as the point of minimum correlation coefficient and maximum QMI is equal to no shift. \par
 
-\begin{figure}[h!]
-    \includegraphics[width=\textwidth, height=\textheight, keepaspectratio]{cor_cof2.png}
-    \caption{This plot correspond to T1.jpg and negative of T1.jpg}
-\end{figure}
-
-\begin{figure}[h!]
-    \includegraphics[width=\textwidth, height=\textheight, keepaspectratio]{quadMutInf2.png}
-    \caption{This plot correspond to T1.jpg and negative of T1.jpg}
-\end{figure}
-
+\newpage
 \newpage
 
 
 
 \section{Question 7}
-\includegraphics[width=\textwidth, height=\textheight, keepaspectratio]{7a.jpeg}\par
-\includegraphics[width=\textwidth, height=\textheight, keepaspectratio]{7b.jpeg}\par
+\begin{figure} [h!]
+    \includegraphics[width=\textwidth, height=\textheight, keepaspectratio]{7a.jpeg}\par
+
+\end{figure}
+
+\begin{figure}[h!]
+    \includegraphics[width=\textwidth, height=\textheight, keepaspectratio]{7b.jpeg}\par
+\end{figure}
 \end{document}
