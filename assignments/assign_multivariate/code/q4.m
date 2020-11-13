@@ -58,9 +58,15 @@ for i=1:10
     hold on;
     plot(x,e);
     ylabel('eigen value');
-    t=strcat('digit = ',num2str((i-1)),' no. of significant modes = ' ,num2str(size(sige,1)));
+    t=strcat('digit = ',num2str((i-1)),' ,no. of significant modes = ' ,num2str(size(sige,1)));
     title(t);
     hold all;
+    
+%     imshow(mu(:,:,i)-
+    
+    
+    
+    
     
     
     
