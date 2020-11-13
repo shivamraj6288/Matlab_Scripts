@@ -1,3 +1,7 @@
+%%
+% 
+% <<FILENAME.PNG>>
+% 
 clear;
 filename="/home/shivam/Documents/sem3/cs215/matlab_scripts/assignments/assign_multivariate/data/mnist.mat"; %path of dataset
 data=load(filename);
@@ -11,9 +15,9 @@ lst=data.labels_train;
 
 fdst=double(dst);
 
-disp(size(lst));
+% disp(size(lst));
 img_as_rows=reshape(fdst,[],size(lst,1));%storing all images as vectors
-disp(size(img_as_rows));
+% disp(size(img_as_rows));
 covt=zeros(784,784,10);
 for i=1:10
     collected=img_as_rows(:,lst==i-1);
@@ -38,8 +42,8 @@ for i=1:10
 
     
 end
-disp(size(mu));
-disp(size(covt));
+% disp(size(mu));
+% disp(size(covt));
 modevar=zeros(784,10);
 
 for i=1:10
@@ -68,9 +72,17 @@ for i=1:10
     figure(10+i)
     
     subplot(1,3,1),imshow(img);
-    img=mu(:,1);
+    img=mu(:,i);
     img=reshape(img,28,28);
     subplot(1,3,2),imshow(img);
+    
+     img=mu(:,i)+(sqrt(m)*eigenvect);
+    img=uint8(img);
+    img=reshape(img,28,28);
+    
+    subplot(1,3,3),imshow(img);
+    
+    
     
     
     
