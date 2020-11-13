@@ -3,7 +3,8 @@
 % <<FILENAME.PNG>>
 % 
 clear;
-filename="/home/shivam/Documents/sem3/cs215/matlab_scripts/assignments/assign_multivariate/data/mnist.mat"; %path of dataset
+filename="mnist.mat"; %path of dataset... Please change it before running the code 
+
 data=load(filename);
 
 
