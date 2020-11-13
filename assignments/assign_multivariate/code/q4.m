@@ -62,7 +62,16 @@ for i=1:10
     title(t);
     hold all;
     
-%     imshow(mu(:,:,i)-
+    img=mu(:,i)-(sqrt(m)*eigenvect);
+    img=uint8(img);
+    img=reshape(img,28,28);
+    figure(10+i)
+    
+    subplot(1,3,1),imshow(img);
+    img=mu(:,1);
+    img=reshape(img,28,28);
+    subplot(1,3,2),imshow(img);
+    
     
     
     
