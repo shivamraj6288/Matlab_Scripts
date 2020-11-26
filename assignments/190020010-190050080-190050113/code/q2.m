@@ -13,13 +13,13 @@ for i = 1:10
    error_bay(:,i) = abs((N+5.5)./(sum(y,2)+1)-5)/5;
 end
 
-figure;
+figure(1);
 boxplot(error_ml,Nvals);
 xlabel('N');
 ylabel('|{λ}-λ_{true}| / λ_{true}');
 title('Maximum likelihood estimate');
 
-figure;
+figure(2);
 boxplot(error_bay,Nvals);
 xlabel('N');
 ylabel('|{λ}-λ_{true}| / λ_{true}');
