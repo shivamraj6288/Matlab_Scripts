@@ -1,6 +1,6 @@
 clc;
 clear;
-rng(1);
+rng(101);
 truemu=10;
 truesigma=4;
 
@@ -35,11 +35,7 @@ for i=1:10
         % calculating using priori distribution 2 %
         xavg=mean(y);
         if xavg<9.5
-            xavg=9.5;
-        elseif xavg>11.5
-            xavg=11.5;
-        end
-        %derivation of above formula is in reports
+            xavg=9.5
         rlerror=abs(xavg-truemu)/truemu; 
         mapgraph2(j,i)=rlerror;
         
